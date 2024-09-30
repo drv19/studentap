@@ -1,2 +1,5 @@
 https://github.com/drv19/studentap.git
 https://github.com/drv19/Zproyecto.git
+
+
+estos son los repositorios que utiliza darwin eliu amirez vargas
