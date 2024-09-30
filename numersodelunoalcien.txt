@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola mundo 1
+=======
+hola mundo 2222
+>>>>>>> fdfd99899afaf8d1902c779ab352384f9895c57a
